@@ -1,4 +1,4 @@
-Supervised_Linear_Regression
+# Supervised_Linear_Regression
 This repository includes basic implementations of supervised regression models using Python in Jupyter Notebooks. It covers five key types of regression:
 
 Simple Linear Regression – Regression with one feature.
@@ -13,7 +13,7 @@ Random Forest Regression – Ensemble regression using multiple decision trees f
 
 Each notebook demonstrates model training, prediction, and (optionally) visualization using scikit-learn and matplotlib.
 
-Notebooks
+# Notebooks
 simple_linear_regression.ipynb
 
 multiple_linear_regression.ipynb
@@ -24,7 +24,7 @@ decision_tree_regression.ipynb
 
 random_forest_regression.ipynb
 
-Requirements
+# Requirements
 Python 3.x
 
 Jupyter Notebook
